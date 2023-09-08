@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋, I'm Pedro Henrique!</h2>  
-<h4 align="center">Computer Science undergraduate, passionate about the future of technology and internet! Studying to start being able to make an impact in future. Always eager to learn more!</h4>  
+<h4 align="center">Technology is personal expression. By that motto I keep on studying and expanding my view in this universe!</h4>  
   
 - Researcher in **Ethereum** and **Blockchain** analysis;
 	- Mainly focused in Data Science and Network Analysis, working with Python (pandas, seaborn, dask, scikit-learn, etc.)
-- Studying front-end web development!
-- Mobile and game development might be future interests.
+- Studying deep learning, business inteligence and big data;
+- Interested in learn more deeply about Recommender Systems.
 
   
 ### Languages and Tools:
